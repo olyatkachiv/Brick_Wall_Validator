@@ -1,4 +1,4 @@
-Task Definition
+Task Definition.
 The program checks whether a wall of a given configuration can be constructed using a provided set of bricks.
 
 How the Algorithm Works
@@ -36,7 +36,7 @@ Available bricks:
 Total available: 4 + 3 + 4 + 60 = 71 cells.
 71 > 16 → Output: "yes".
 
-Implementation
+Implementation.
 Built using HTML + JavaScript.
 The file is loaded via <input type="file">.
 JavaScript processes the data and displays the result in <p id="output">.
