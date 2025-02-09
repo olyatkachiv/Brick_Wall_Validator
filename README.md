@@ -35,7 +35,6 @@ Available bricks:
 3×4, 5 pieces (60 cells)
 Total available: 4 + 3 + 4 + 60 = 71 cells.
 71 > 16 → Output: "yes".
-
 Implementation.
 Built using HTML + JavaScript.
 The file is loaded via <input type="file">.
